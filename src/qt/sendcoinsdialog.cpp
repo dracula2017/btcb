@@ -36,7 +36,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)"));
 #endif
 
     addEntry();
@@ -458,7 +458,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString & text)
         else if (!CBitcoinAddress(text.toStdString()).IsValid())
         {
             ui->labelCoinControlChangeLabel->setStyleSheet("QLabel{color:red;}");
-            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid DraculaCoin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid BTC Blue address"));
         }
         else
         {

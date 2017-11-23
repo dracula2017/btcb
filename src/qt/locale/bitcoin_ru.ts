@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About DraculaCoin</source>
-        <translation>О DraculaCoin</translation>
+        <source>About BTC Blue</source>
+        <translation>О BTC Blue</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;DraculaCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;DraculaCoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;BTC Blue&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BTC Blue&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The DraculaCoin developers</source>
+Copyright © 2017 The BTC Blue developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2016 Разработчики DraculaCoin</translation>
+Все права защищены © 2016 Разработчики BTC Blue</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your DraculaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your BTC Blue addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a DraculaCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом DraculaCoin</translation>
+        <source>Sign a message to prove you own a BTC Blue address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом BTC Blue</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified DraculaCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом DraculaCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified BTC Blue address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом BTC Blue</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>DraculaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>BTC Blue will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about DraculaCoin</source>
-        <translation>Показать информацию о DraculaCoin&apos;е</translation>
+        <source>Show information about BTC Blue</source>
+        <translation>Показать информацию о BTC Blue&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a DraculaCoin address</source>
-        <translation>Отправить монеты на указанный адрес DraculaCoin</translation>
+        <source>Send coins to a BTC Blue address</source>
+        <translation>Отправить монеты на указанный адрес BTC Blue</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for DraculaCoin</source>
-        <translation>Изменить параметры конфигурации DraculaCoin</translation>
+        <source>Modify configuration options for BTC Blue</source>
+        <translation>Изменить параметры конфигурации BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>DraculaCoin</source>
-        <translation>DraculaCoin</translation>
+        <source>BTC Blue</source>
+        <translation>BTC Blue</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About DraculaCoin</source>
-        <translation>&amp;О DraculaCoin</translation>
+        <source>&amp;About BTC Blue</source>
+        <translation>&amp;О BTC Blue</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>DraculaCoin client</source>
-        <translation>DraculaCoin клиент</translation>
+        <source>BTC Blue client</source>
+        <translation>BTC Blue клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to DraculaCoin network</source>
+        <source>%n active connection(s) to BTC Blue network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -600,8 +600,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid DraculaCoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом DraculaCoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BTC Blue address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом BTC Blue или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. DraculaCoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. DraculaCoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. BTC Blue can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. BTC Blue не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1043,8 +1043,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid DraculaCoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным DraculaCoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BTC Blue address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным BTC Blue-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>DraculaCoin-Qt</source>
-        <translation>DraculaCoin-Qt</translation>
+        <source>BTC Blue-Qt</source>
+        <translation>BTC Blue-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1135,13 +1135,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start DraculaCoin after logging in to the system.</source>
-        <translation>Автоматически запускать DraculaCoin после входа в систему</translation>
+        <source>Automatically start BTC Blue after logging in to the system.</source>
+        <translation>Автоматически запускать BTC Blue после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start DraculaCoin on system login</source>
-        <translation>&amp;Запускать DraculaCoin при входе в систему</translation>
+        <source>&amp;Start BTC Blue on system login</source>
+        <translation>&amp;Запускать BTC Blue при входе в систему</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1150,8 +1150,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the DraculaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для DraculaCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the BTC Blue client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для BTC Blue-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the DraculaCoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the BTC Blue network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1225,8 +1225,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting DraculaCoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска DraculaCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BTC Blue.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска BTC Blue.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1292,8 +1292,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting DraculaCoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска DraculaCoin</translation>
+        <source>This setting will take effect after restarting BTC Blue.</source>
+        <translation>Эта настройка вступит в силу после перезапуска BTC Blue</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1311,8 +1311,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DraculaCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью DraculaCoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BTC Blue network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью BTC Blue после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1385,7 +1385,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start draculacoin: click-to-pay handler</source>
+        <source>Cannot start btcb: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1553,8 +1553,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the DraculaCoin-Qt help message to get a list with possible DraculaCoin command-line options.</source>
-        <translation>Показать помощь по DraculaCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the BTC Blue-Qt help message to get a list with possible BTC Blue command-line options.</source>
+        <translation>Показать помощь по BTC Blue-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>DraculaCoin - Debug window</source>
-        <translation>DraculaCoin - Окно отладки</translation>
+        <source>BTC Blue - Debug window</source>
+        <translation>BTC Blue - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>DraculaCoin Core</source>
-        <translation>Ядро DraculaCoin</translation>
+        <source>BTC Blue Core</source>
+        <translation>Ядро BTC Blue</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1588,8 +1588,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the DraculaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл DraculaCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the BTC Blue debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл BTC Blue из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the DraculaCoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль DraculaCoin.</translation>
+        <source>Welcome to the BTC Blue RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль BTC Blue.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1779,8 +1779,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Введите DraculaCoin-адрес (например YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Введите BTC Blue-адрес (например DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1879,7 +1879,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid DraculaCoin address</source>
+        <source>WARNING: Invalid BTC Blue address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1912,8 +1912,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Адрес получателя платежа (например YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>The address to send the payment to (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Адрес получателя платежа (например DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1953,8 +1953,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Введите DraculaCoin-адрес (например YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Введите BTC Blue-адрес (например DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
 </context>
 <context>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>The address to sign the message with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2014,8 +2014,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this DraculaCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом DraculaCoin</translation>
+        <source>Sign the message to prove you own this BTC Blue address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2041,13 +2041,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>The address the message was signed with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified DraculaCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом DraculaCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified BTC Blue address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2057,8 +2057,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Введите адрес DraculaCoin (напр. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Введите адрес BTC Blue (напр. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2067,8 +2067,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter DraculaCoin signature</source>
-        <translation>Введите подпись DraculaCoin</translation>
+        <source>Enter BTC Blue signature</source>
+        <translation>Введите подпись BTC Blue</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2646,7 +2646,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>DraculaCoin version</source>
+        <source>BTC Blue version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2656,8 +2656,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or draculacoind</source>
-        <translation>Отправить команду на -server или draculacoind</translation>
+        <source>Send command to -server or btcbd</source>
+        <translation>Отправить команду на -server или btcbd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2677,13 +2677,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: draculacoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: draculacoin.conf)</translation>
+        <source>Specify configuration file (default: btcb.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: btcb.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: draculacoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: draculacoind.pid)</translation>
+        <source>Specify pid file (default: btcbd.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: btcbd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2700,13 +2700,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=draculacoinrpc
+rpcuser=btcbrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BTC Blue Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2812,8 +2812,8 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DraculaCoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, DraculaCoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BTC Blue will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, BTC Blue будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3108,7 +3108,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. DraculaCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BTC Blue is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3163,13 +3163,13 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of DraculaCoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию DraculaCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BTC Blue</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию BTC Blue</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart DraculaCoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите DraculaCoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart BTC Blue to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите BTC Blue для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3228,8 +3228,8 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. DraculaCoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, DraculaCoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. BTC Blue is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, BTC Blue уже работает.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3263,7 +3263,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. DraculaCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BTC Blue is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>

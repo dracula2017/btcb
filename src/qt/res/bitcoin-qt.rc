@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/draculacoin.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/btcb.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "DraculaCoin"
-            VALUE "FileDescription",    "DraculaCoin-Qt (OSS GUI client for DraculaCoin)"
+            VALUE "CompanyName",        "BTC Blue"
+            VALUE "FileDescription",    "BTC Blue-Qt (OSS GUI client for BTC Blue)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "draculacoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014-2016 The BlackCoin developers, 2016 The DraculaCoin developers"
+            VALUE "InternalName",       "btcb-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014-2016 The BlackCoin developers, 2017 The BTC Blue developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "draculacoin-qt.exe"
-            VALUE "ProductName",        "DraculaCoin-Qt"
+            VALUE "OriginalFilename",   "btcb-qt.exe"
+            VALUE "ProductName",        "BTC Blue-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

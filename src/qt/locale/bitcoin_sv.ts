@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About DraculaCoin</source>
-        <translation>Vad du behöver veta om DraculaCoin</translation>
+        <source>About BTC Blue</source>
+        <translation>Vad du behöver veta om BTC Blue</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;DraculaCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;DraculaCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;BTC Blue&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BTC Blue&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The DraculaCoin developers</source>
+Copyright © 2017 The BTC Blue developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The DraculaCoin developers</translation>
+Copyright © 2017 The BTC Blue developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your DraculaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina DraculaCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your BTC Blue addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina BTC Blue adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a DraculaCoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger DraculaCoin adressen</translation>
+        <source>Sign a message to prove you own a BTC Blue address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger BTC Blue adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified DraculaCoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik DraculaCoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified BTC Blue address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik BTC Blue adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>DraculaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>DraculaCoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>BTC Blue will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BTC Blue plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about DraculaCoin</source>
-        <translation>Visa information om DraculaCoin</translation>
+        <source>Show information about BTC Blue</source>
+        <translation>Visa information om BTC Blue</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a DraculaCoin address</source>
-        <translation>Skicka coins till en DraculaCoin adress</translation>
+        <source>Send coins to a BTC Blue address</source>
+        <translation>Skicka coins till en BTC Blue adress</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for DraculaCoin</source>
-        <translation>Modifiera konfigurations-alternativ för DraculaCoin</translation>
+        <source>Modify configuration options for BTC Blue</source>
+        <translation>Modifiera konfigurations-alternativ för BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>DraculaCoin</source>
-        <translation>DraculaCoin</translation>
+        <source>BTC Blue</source>
+        <translation>BTC Blue</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About DraculaCoin</source>
-        <translation>&amp;Om DraculaCoin</translation>
+        <source>&amp;About BTC Blue</source>
+        <translation>&amp;Om BTC Blue</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>DraculaCoin client</source>
-        <translation>DraculaCoin klient</translation>
+        <source>BTC Blue client</source>
+        <translation>BTC Blue klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to DraculaCoin network</source>
-        <translation><numerusform>%n aktiv anslutning till DraculaCoin nätverket</numerusform><numerusform>%n aktiva anslutning till DraculaCoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to BTC Blue network</source>
+        <translation><numerusform>%n aktiv anslutning till BTC Blue nätverket</numerusform><numerusform>%n aktiva anslutning till BTC Blue nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid DraculaCoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig DraculaCoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BTC Blue address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig BTC Blue adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. DraculaCoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. DraculaCoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. BTC Blue can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. BTC Blue kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1018,7 +1018,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna DraculaCoin-adress</translation>
+        <translation>Namnet som kopplats till denna BTC Blue-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1057,8 +1057,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid DraculaCoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig DraculaCoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BTC Blue address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BTC Blue adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>DraculaCoin-Qt</source>
-        <translation>DraculaCoin-Qt</translation>
+        <source>BTC Blue-Qt</source>
+        <translation>BTC Blue-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start DraculaCoin after logging in to the system.</source>
-        <translation>Starta DraculaCoin automatiskt vid inloggning.</translation>
+        <source>Automatically start BTC Blue after logging in to the system.</source>
+        <translation>Starta BTC Blue automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start DraculaCoin on system login</source>
-        <translation>&amp;Starta DraculaCoin vid inloggning</translation>
+        <source>&amp;Start BTC Blue on system login</source>
+        <translation>&amp;Starta BTC Blue vid inloggning</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the DraculaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt DraculaCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the BTC Blue client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt BTC Blue klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the DraculaCoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the BTC Blue network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting DraculaCoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av DraculaCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BTC Blue.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av BTC Blue.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting DraculaCoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av DraculaCoin.</translation>
+        <source>This setting will take effect after restarting BTC Blue.</source>
+        <translation>Inställningen börjar gälla efter omstart av BTC Blue.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DraculaCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med DraculaCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BTC Blue network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med BTC Blue nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start draculacoin: click-to-pay handler</source>
+        <source>Cannot start btcb: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the DraculaCoin-Qt help message to get a list with possible DraculaCoin command-line options.</source>
-        <translation>Visa DraculaCoin-Qt hjälp meddelandet för att få en lista över möjliga DraculaCoin kommandoradsalternativ.</translation>
+        <source>Show the BTC Blue-Qt help message to get a list with possible BTC Blue command-line options.</source>
+        <translation>Visa BTC Blue-Qt hjälp meddelandet för att få en lista över möjliga BTC Blue kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>DraculaCoin - Debug window</source>
-        <translation>DraculaCoin - Felsökningsfönster</translation>
+        <source>BTC Blue - Debug window</source>
+        <translation>BTC Blue - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>DraculaCoin Core</source>
-        <translation>DraculaCoin Core</translation>
+        <source>BTC Blue Core</source>
+        <translation>BTC Blue Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the DraculaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna DraculaCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the BTC Blue debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna BTC Blue felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the DraculaCoin RPC console.</source>
-        <translation>Välkommen till DraculaCoin RPC konsoll.</translation>
+        <source>Welcome to the BTC Blue RPC console.</source>
+        <translation>Välkommen till BTC Blue RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Fyll i en DraculaCoin adress (t.ex. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Fyll i en BTC Blue adress (t.ex. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid DraculaCoin address</source>
-        <translation>VARNING: Ogiltig DraculaCoin adress</translation>
+        <source>WARNING: Invalid BTC Blue address</source>
+        <translation>VARNING: Ogiltig BTC Blue adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1926,7 +1926,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>The address to send the payment to (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1967,8 +1967,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Fyll i en DraculaCoin adress (t.ex. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Fyll i en BTC Blue adress (t.ex. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Adressen att signera meddelandet med (t.ex. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>The address to sign the message with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Adressen att signera meddelandet med (t.ex. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2028,8 +2028,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this DraculaCoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna DraculaCoin adressen</translation>
+        <source>Sign the message to prove you own this BTC Blue address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna BTC Blue adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2055,13 +2055,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Adressen meddelandet var signerad med (t.ex. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>The address the message was signed with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Adressen meddelandet var signerad med (t.ex. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified DraculaCoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna DraculaCoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified BTC Blue address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna BTC Blue adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Fyll i en DraculaCoin adress (t.ex. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Fyll i en BTC Blue adress (t.ex. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter DraculaCoin signature</source>
-        <translation>Fyll i DraculaCoin signatur</translation>
+        <source>Enter BTC Blue signature</source>
+        <translation>Fyll i BTC Blue signatur</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>DraculaCoin version</source>
-        <translation>DraculaCoin version</translation>
+        <source>BTC Blue version</source>
+        <translation>BTC Blue version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or draculacoind</source>
-        <translation>Skicka kommando till -server eller draculacoind</translation>
+        <source>Send command to -server or btcbd</source>
+        <translation>Skicka kommando till -server eller btcbd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: draculacoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: draculacoin.conf)</translation>
+        <source>Specify configuration file (default: btcb.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: btcb.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: draculacoind.pid)</source>
-        <translation>Ange pid filen (standard draculacoind.pid)</translation>
+        <source>Specify pid file (default: btcbd.pid)</source>
+        <translation>Ange pid filen (standard btcbd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=draculacoinrpc
+rpcuser=btcbrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BTC Blue Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DraculaCoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. DraculaCoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BTC Blue will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. BTC Blue kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. DraculaCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BTC Blue is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of DraculaCoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av DraculaCoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BTC Blue</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av BTC Blue krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart DraculaCoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om DraculaCoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart BTC Blue to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om BTC Blue för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. DraculaCoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. DraculaCoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. BTC Blue is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. BTC Blue är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. DraculaCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BTC Blue is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

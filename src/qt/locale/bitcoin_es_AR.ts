@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About DraculaCoin</source>
-        <translation>Sobre DraculaCoin</translation>
+        <source>About BTC Blue</source>
+        <translation>Sobre BTC Blue</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;DraculaCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;DraculaCoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;BTC Blue&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BTC Blue&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The DraculaCoin developers</source>
+Copyright © 2017 The BTC Blue developers</source>
         <translation>Copyright © 2009-2014 Los Desarrolladores Bitcoin
 Copyright © 2012-2014 Los Desarrolladores NovaCoin
 Copyright © 2016 Los Desarrolladores Bitcoin</translation>
@@ -65,8 +65,8 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your DraculaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son sus direcciones DraculaCoin para recibir pagos. Usted debería compartir una dirección diferente por cada  persona que le envía, para mantener un registro de quien le esta pagando.</translation>
+        <source>These are your BTC Blue addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son sus direcciones BTC Blue para recibir pagos. Usted debería compartir una dirección diferente por cada  persona que le envía, para mantener un registro de quien le esta pagando.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a DraculaCoin address</source>
-        <translation>Fírme un mensaje para probar que usted posee una dirección DraculaCoin</translation>
+        <source>Sign a message to prove you own a BTC Blue address</source>
+        <translation>Fírme un mensaje para probar que usted posee una dirección BTC Blue</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified DraculaCoin address</source>
-        <translation>Verifique un mensaje para asegurar que fue firmado con una dirección DraculaCoin especificada</translation>
+        <source>Verify a message to ensure it was signed with a specified BTC Blue address</source>
+        <translation>Verifique un mensaje para asegurar que fue firmado con una dirección BTC Blue especificada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     </message>
     <message>
         <location line="+82"/>
-        <source>DraculaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>DraculaCoin se cerrará ahora para finalizar el proceso de encriptado. Recuerde que encriptar su billetera no puede completamente protegerlo de que sus monedas sean robadas por posible malware infectando su computadora.</translation>
+        <source>BTC Blue will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BTC Blue se cerrará ahora para finalizar el proceso de encriptado. Recuerde que encriptar su billetera no puede completamente protegerlo de que sus monedas sean robadas por posible malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about DraculaCoin</source>
-        <translation>Mostrar información sobre DraculaCoin</translation>
+        <source>Show information about BTC Blue</source>
+        <translation>Mostrar información sobre BTC Blue</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a DraculaCoin address</source>
-        <translation>Enviar monedas a una dirección DraculaCoin</translation>
+        <source>Send coins to a BTC Blue address</source>
+        <translation>Enviar monedas a una dirección BTC Blue</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for DraculaCoin</source>
-        <translation>Modificar opciones de configuración para DraculaCoin</translation>
+        <source>Modify configuration options for BTC Blue</source>
+        <translation>Modificar opciones de configuración para BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>DraculaCoin</source>
-        <translation>DraculaCoin</translation>
+        <source>BTC Blue</source>
+        <translation>BTC Blue</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,8 +453,8 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About DraculaCoin</source>
-        <translation>&amp;Sobre DraculaCoin</translation>
+        <source>&amp;About BTC Blue</source>
+        <translation>&amp;Sobre BTC Blue</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Este producto incluye software desarrolado por el OpenSSL Project para el uso en
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>DraculaCoin client</source>
-        <translation>Cliente DraculaCoin</translation>
+        <source>BTC Blue client</source>
+        <translation>Cliente BTC Blue</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to DraculaCoin network</source>
-        <translation><numerusform>%n conexión activa a la red DraculaCoin</numerusform><numerusform>%n conexiónes activas a la red DraculaCoin</numerusform></translation>
+        <source>%n active connection(s) to BTC Blue network</source>
+        <translation><numerusform>%n conexión activa a la red BTC Blue</numerusform><numerusform>%n conexiónes activas a la red BTC Blue</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,7 +605,7 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid DraculaCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid BTC Blue address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -728,7 +728,7 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. DraculaCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. BTC Blue can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1048,7 +1048,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid DraculaCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid BTC Blue address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1067,7 +1067,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>DraculaCoin-Qt</source>
+        <source>BTC Blue-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1140,12 +1140,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start DraculaCoin after logging in to the system.</source>
+        <source>Automatically start BTC Blue after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start DraculaCoin on system login</source>
+        <source>&amp;Start BTC Blue on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1155,7 +1155,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the DraculaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the BTC Blue client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1185,7 +1185,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the DraculaCoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the BTC Blue network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1230,7 +1230,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting DraculaCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting BTC Blue.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1297,7 +1297,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting DraculaCoin.</source>
+        <source>This setting will take effect after restarting BTC Blue.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1316,7 +1316,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DraculaCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BTC Blue network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1390,7 +1390,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start draculacoin: click-to-pay handler</source>
+        <source>Cannot start btcb: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1558,7 +1558,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the DraculaCoin-Qt help message to get a list with possible DraculaCoin command-line options.</source>
+        <source>Show the BTC Blue-Qt help message to get a list with possible BTC Blue command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1578,12 +1578,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>DraculaCoin - Debug window</source>
+        <source>BTC Blue - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>DraculaCoin Core</source>
+        <source>BTC Blue Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1593,7 +1593,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the DraculaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the BTC Blue debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1603,7 +1603,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the DraculaCoin RPC console.</source>
+        <source>Welcome to the BTC Blue RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1784,7 +1784,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1884,7 +1884,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid DraculaCoin address</source>
+        <source>WARNING: Invalid BTC Blue address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1917,7 +1917,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>The address to send the payment to (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1958,7 +1958,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1982,7 +1982,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>The address to sign the message with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2019,7 +2019,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this DraculaCoin address</source>
+        <source>Sign the message to prove you own this BTC Blue address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2046,12 +2046,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>The address the message was signed with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified DraculaCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified BTC Blue address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2062,7 +2062,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2072,7 +2072,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter DraculaCoin signature</source>
+        <source>Enter BTC Blue signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2651,7 +2651,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>DraculaCoin version</source>
+        <source>BTC Blue version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2661,7 +2661,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or draculacoind</source>
+        <source>Send command to -server or btcbd</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2681,12 +2681,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: draculacoin.conf)</source>
+        <source>Specify configuration file (default: btcb.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: draculacoind.pid)</source>
+        <source>Specify pid file (default: btcbd.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2704,13 +2704,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=draculacoinrpc
+rpcuser=btcbrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BTC Blue Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2816,7 +2816,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DraculaCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BTC Blue will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3111,7 +3111,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. DraculaCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BTC Blue is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3166,12 +3166,12 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of DraculaCoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of BTC Blue</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart DraculaCoin to complete</source>
+        <source>Wallet needed to be rewritten: restart BTC Blue to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3231,7 +3231,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. DraculaCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. BTC Blue is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3266,7 +3266,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. DraculaCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BTC Blue is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

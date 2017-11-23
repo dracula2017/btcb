@@ -22,7 +22,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "DraculaCoin cannot be compiled without assertions."
+# error "BTC Blue cannot be compiled without assertions."
 #endif
 
 //
@@ -970,9 +970,11 @@ int64_t GetProofOfWorkReward(int64_t nHeight, int64_t nFees)
 }
 
 // miner's coin stake reward
-uint64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, uint64_t nCoinAge, int64_t nFees)
+uint64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, uint64_t nCoinAge, int64_t nFees, int64_t nHeight)
 {
     uint64_t nSubsidy = nCoinAge * (COIN_YEAR_REWARD / 365);
+	if(nHeight > 98000)
+		nSubsidy = nCoinAge * (COIN_YEAR_REWARD2 / 365);
 
     return nSubsidy + nFees;
 }
@@ -1492,7 +1494,7 @@ bool CBlock::ConnectBlock(CTxDB& txdb, CBlockIndex* pindex, bool fJustCheck)
         if (!vtx[1].GetCoinAge(txdb, pindex->pprev, nCoinAge))
             return error("ConnectBlock() : %s unable to get coin age for coinstake", vtx[1].GetHash().ToString());
 
-        uint64_t nCalculatedStakeReward = GetProofOfStakeReward(pindex->pprev, nCoinAge, nFees);
+        uint64_t nCalculatedStakeReward = GetProofOfStakeReward(pindex->pprev, nCoinAge, nFees, pindex->nHeight);
 
         if (nStakeReward > nCalculatedStakeReward)
             return DoS(100, error("ConnectBlock() : coinstake pays too much(actual=%d vs calculated=%d)", nStakeReward, nCalculatedStakeReward));
@@ -2614,7 +2616,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("draculacoin-loadblk");
+    RenameThread("btcb-loadblk");
 
     CImportingNow imp;
 

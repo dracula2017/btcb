@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About DraculaCoin</source>
-        <translation>Despre DraculaCoin</translation>
+        <source>About BTC Blue</source>
+        <translation>Despre BTC Blue</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;DraculaCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;DraculaCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;BTC Blue&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;BTC Blue&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The DraculaCoin developers</source>
+Copyright © 2017 The BTC Blue developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The DraculaCoin developers</translation>
+Copyright © 2017 The BTC Blue developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your DraculaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele DraculaCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your BTC Blue addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele BTC Blue pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a DraculaCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DraculaCoin</translation>
+        <source>Sign a message to prove you own a BTC Blue address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BTC Blue</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified DraculaCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DraculaCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified BTC Blue address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BTC Blue</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>DraculaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>DraculaCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>BTC Blue will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BTC Blue se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about DraculaCoin</source>
-        <translation>Arată informații despre DraculaCoin</translation>
+        <source>Show information about BTC Blue</source>
+        <translation>Arată informații despre BTC Blue</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a DraculaCoin address</source>
-        <translation>Trimite monede către o adresă DraculaCoin</translation>
+        <source>Send coins to a BTC Blue address</source>
+        <translation>Trimite monede către o adresă BTC Blue</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for DraculaCoin</source>
-        <translation>Modifică opțiuni de configurare pentru DraculaCoin</translation>
+        <source>Modify configuration options for BTC Blue</source>
+        <translation>Modifică opțiuni de configurare pentru BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>DraculaCoin</source>
-        <translation>DraculaCoin</translation>
+        <source>BTC Blue</source>
+        <translation>BTC Blue</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About DraculaCoin</source>
-        <translation>Despre DraculaCoin</translation>
+        <source>&amp;About BTC Blue</source>
+        <translation>Despre BTC Blue</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>DraculaCoin client</source>
-        <translation>Clientul DraculaCoin</translation>
+        <source>BTC Blue client</source>
+        <translation>Clientul BTC Blue</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to DraculaCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua DraculaCoin</numerusform><numerusform>%n conexiuni active la reteaua DraculaCoin</numerusform><numerusform>%n conexiuni active la reteaua DraculaCoin</numerusform></translation>
+        <source>%n active connection(s) to BTC Blue network</source>
+        <translation><numerusform>%n conexiune activă la reteaua BTC Blue</numerusform><numerusform>%n conexiuni active la reteaua BTC Blue</numerusform><numerusform>%n conexiuni active la reteaua BTC Blue</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid DraculaCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa DraculaCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BTC Blue address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa BTC Blue invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. DraculaCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. DraculaCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. BTC Blue can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. BTC Blue nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid DraculaCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă DraculaCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BTC Blue address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă BTC Blue validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>DraculaCoin-Qt</source>
-        <translation>DraculaCoin-Qt</translation>
+        <source>BTC Blue-Qt</source>
+        <translation>BTC Blue-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start DraculaCoin after logging in to the system.</source>
-        <translation>Pornește DraculaCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start BTC Blue after logging in to the system.</source>
+        <translation>Pornește BTC Blue imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start DraculaCoin on system login</source>
-        <translation>$Pornește DraculaCoin la logarea în sistem</translation>
+        <source>&amp;Start BTC Blue on system login</source>
+        <translation>$Pornește BTC Blue la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the DraculaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul DraculaCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the BTC Blue client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul BTC Blue pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the DraculaCoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the BTC Blue network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting DraculaCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea DraculaCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BTC Blue.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea BTC Blue.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting DraculaCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea DraculaCoin.</translation>
+        <source>This setting will take effect after restarting BTC Blue.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea BTC Blue.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DraculaCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua DraculaCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BTC Blue network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua BTC Blue după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start draculacoin: click-to-pay handler</source>
+        <source>Cannot start btcb: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the DraculaCoin-Qt help message to get a list with possible DraculaCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor DraculaCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă DraculaCoin.</translation>
+        <source>Show the BTC Blue-Qt help message to get a list with possible BTC Blue command-line options.</source>
+        <translation>Afișa mesajul de ajutor BTC Blue-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă BTC Blue.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>DraculaCoin - Debug window</source>
-        <translation>DraculaCoin - fereastră depanare</translation>
+        <source>BTC Blue - Debug window</source>
+        <translation>BTC Blue - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>DraculaCoin Core</source>
-        <translation>DraculaCoin Core</translation>
+        <source>BTC Blue Core</source>
+        <translation>BTC Blue Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the DraculaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare DraculaCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the BTC Blue debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare BTC Blue din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the DraculaCoin RPC console.</source>
-        <translation>Bine ati venit la consola DraculaCoin RPC.</translation>
+        <source>Welcome to the BTC Blue RPC console.</source>
+        <translation>Bine ati venit la consola BTC Blue RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Introduceți o adresă DraculaCoin(ex:YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Introduceți o adresă BTC Blue(ex:DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid DraculaCoin address</source>
-        <translation>Atenție: Adresă DraculaCoin invalidă</translation>
+        <source>WARNING: Invalid BTC Blue address</source>
+        <translation>Atenție: Adresă BTC Blue invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1926,7 +1926,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
+        <source>The address to send the payment to (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1967,8 +1967,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Introduceți o adresă DraculaCoin(ex:YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Introduceți o adresă BTC Blue(ex:DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Adresa cu care semnati mesajul(ex. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>The address to sign the message with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Adresa cu care semnati mesajul(ex. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2028,8 +2028,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this DraculaCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă DraculaCoin</translation>
+        <source>Sign the message to prove you own this BTC Blue address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2055,13 +2055,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>The address the message was signed with (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified DraculaCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă DraculaCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified BTC Blue address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BTC Blue</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</source>
-        <translation>Introduceți o adresă DraculaCoin(ex:YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)</translation>
+        <source>Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</source>
+        <translation>Introduceți o adresă BTC Blue(ex:DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter DraculaCoin signature</source>
-        <translation>Introduceti semnatura DraculaCoin</translation>
+        <source>Enter BTC Blue signature</source>
+        <translation>Introduceti semnatura BTC Blue</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>DraculaCoin version</source>
-        <translation>Versiune DraculaCoin</translation>
+        <source>BTC Blue version</source>
+        <translation>Versiune BTC Blue</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or draculacoind</source>
-        <translation>Trimite comanda catre server sau draculacoind</translation>
+        <source>Send command to -server or btcbd</source>
+        <translation>Trimite comanda catre server sau btcbd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: draculacoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: draculacoin.conf)</translation>
+        <source>Specify configuration file (default: btcb.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: btcb.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: draculacoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: draculacoin.pid)</translation>
+        <source>Specify pid file (default: btcbd.pid)</source>
+        <translation>Speficica fisier pid(implicit: btcb.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=draculacoinrpc
+rpcuser=btcbrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BTC Blue Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DraculaCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit DraculaCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BTC Blue will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit BTC Blue nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. DraculaCoin is shutting down.</source>
+        <source>Initialization sanity check failed. BTC Blue is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3175,13 +3175,13 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of DraculaCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de DraculaCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BTC Blue</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de BTC Blue</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart DraculaCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați DraculaCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart BTC Blue to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați BTC Blue pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. DraculaCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil DraculaCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. BTC Blue is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil BTC Blue ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;DraculaCoin Alert&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. DraculaCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BTC Blue is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

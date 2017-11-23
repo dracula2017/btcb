@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a DraculaCoin address (e.g. YQ362ETCEBFvxe3omNJSRs1Pq97aWtHL4V)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter DraculaCoin signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a BTC Blue address (e.g. DH15ptiCZwVsyYDg5HeyuNPPUVrAznCBrK)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter BTC Blue signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);

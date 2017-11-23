@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>DraculaCoin - Debug window</string>
+   <string>BTC Blue - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>DraculaCoin Core</string>
+          <string>BTC Blue Core</string>
          </property>
         </widget>
        </item>
@@ -302,7 +302,7 @@
        <item row="16" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the DraculaCoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the BTC Blue debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -328,7 +328,7 @@
        <item row="18" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the DraculaCoin-Qt help message to get a list with possible DraculaCoin command-line options.</string>
+          <string>Show the BTC Blue-Qt help message to get a list with possible BTC Blue command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>

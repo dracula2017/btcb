@@ -116,7 +116,7 @@ ifeq (${USE_WALLET}, 1)
         obj/walletdb.o
 endif
 
-all: draculacoind.exe
+all: btcbd.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += -I"$(CURDIR)/leveldb/include"
@@ -137,9 +137,9 @@ obj/%.o: %.cpp $(HEADERS)
 obj/%.o: %.c $(HEADERS)
 	$(CC) -c $(CFLAGS) -o $@ $<
 
-draculacoind.exe: $(OBJS:obj/%=obj/%)
+btcbd.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS) -lshlwapi
-	$(STRIP) draculacoind.exe
+	$(STRIP) btcbd.exe
 
 obj/scrypt-x86.o: scrypt-x86.S
 	$(CXX) -c $(CFLAGS) -MMD -o $@ $<
@@ -149,7 +149,7 @@ obj/scrypt-x86_64.o: scrypt-x86_64.S
 
 clean:
 	-rm -f obj/*.o
-	-rm -f draculacoind.exe
+	-rm -f btcbd.exe
 	-rm -f obj/build.h
 	cd leveldb && TARGET_OS=OS_WINDOWS_CROSSCOMPILE $(MAKE) clean && cd ..
 

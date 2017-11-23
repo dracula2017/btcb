@@ -54,6 +54,7 @@ inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MO
 static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 
 static const int64_t COIN_YEAR_REWARD = 5000 * CENT;
+static const int64_t COIN_YEAR_REWARD2 = 1 * CENT;
 
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 30 * 60; }
 
@@ -129,7 +130,7 @@ void ThreadImport(std::vector<boost::filesystem::path> vImportFiles);
 bool CheckProofOfWork(uint256 hash, unsigned int nBits);
 unsigned int GetNextTargetRequired(const CBlockIndex* pindexLast, bool fProofOfStake);
 int64_t GetProofOfWorkReward(int64_t nHeight, int64_t nFees);
-uint64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, uint64_t nCoinAge, int64_t nFees);
+uint64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, uint64_t nCoinAge, int64_t nFees, int64_t nHeight);
 bool IsInitialBlockDownload();
 bool IsConfirmedInNPrevBlocks(const CTxIndex& txindex, const CBlockIndex* pindexFrom, int nMaxDepth, int& nActualDepth);
 std::string GetWarnings(std::string strFor);

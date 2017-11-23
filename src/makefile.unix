@@ -154,7 +154,7 @@ ifeq (${USE_WALLET}, 1)
         obj/walletdb.o
 endif
 
-all: draculacoind
+all: btcbd
 
 #
 # LevelDB support
@@ -199,11 +199,11 @@ obj/%.o: %.c
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	rm -f $(@:%.o=%.d)
 
-draculacoind: $(OBJS:obj/%=obj/%)
+btcbd: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f draculacoind
+	-rm -f btcbd
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj/build.h
